@@ -1,18 +1,21 @@
 {
-    "name": "iselab-template",
+    "name": "webtool-template",
     "version": "0.0.1",
-    "description": "",
+    "description": "An awesome template for building web-based tools used in the lab",
     "main": "app.js",
     "scripts": {
         "start": "node app.js",
         "dev": "nodemon app.js"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": [
+        "template",
+        "application",
+        "tool"
+    ],
+    "author": "Thiago Ferreira",
+    "license": "MIT",
     "dependencies": {
         "connect": "^3.7.0",
-        "ejs": "^3.1.5",
         "nodemon": "^2.0.7",
         "serve-static": "^1.14.1"
     }
