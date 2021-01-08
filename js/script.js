@@ -6,7 +6,7 @@ $(function(){
     feather.replace();
 
     $('#sidebarCollapse').on('click', function () {
-        $('#sidebar').toggleClass('active');
-        $('#content').toggleClass('active');
+        $('#sidebar').addClass("slide").toggleClass('active');
+        $('#content').addClass("slide").toggleClass('active');
     });
 });
