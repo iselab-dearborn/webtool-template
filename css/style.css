@@ -40,9 +40,9 @@ a:hover {
 }
 
 
-/*
-* Buttons
-*/
+/**********************************
+* Buttons                         *
+**********************************/
 
 .btn-success {
     color: white !important;
@@ -53,6 +53,15 @@ a:hover {
 .btn-success:hover {
     background-color: #17a673;
     border-color: #169b6b;
+}
+
+.btn-outline-success {
+    border-color: #1cc88a;
+}
+
+.btn-outline-success:hover {
+    background-color: #1cc88a;
+    border-color: #1cc88a;
 }
 
 .btn-outline-secondary {
@@ -68,6 +77,15 @@ a:hover {
 
 .btn-primary {
     color: #fff;
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+.btn-outline-primary {
+    border-color: #4e73df;
+}
+
+.btn-outline-primary:hover {
     background-color: #4e73df;
     border-color: #4e73df;
 }
