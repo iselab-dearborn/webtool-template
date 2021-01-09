@@ -1,5 +1,19 @@
 # Webtool Template
 
+An awesome template for building web-based tools used in the lab
+
+## Usage
+
+Access the link below to see this template in action.
+
+- https://iselab-dearborn.github.io/webtool-template/
+
+Adapt and include the HTML and CSS files for your project. Warning! It depends which framework you are using.
+
+## Screenshots
+
+![Screen Shot 2021-01-08 at 10 53 33 PM](https://user-images.githubusercontent.com/114015/104082470-6ef79c00-5204-11eb-822b-fd1cbebafa6f.png)
+
 ## For Developers
 
 If you want to run this project on Docker Swarm, you need to update Docker Hub
