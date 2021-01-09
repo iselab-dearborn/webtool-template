@@ -12,7 +12,7 @@ An awesome template for building web-based tools used in the lab
 
 Access the link below to see this template in action.
 
-- https://iselab-dearborn.github.io/webtool-template/
+- https://iselab-dearborn.github.io/webtool-template
 
 Adapt and include the HTML and CSS files for your project. Warning! It depends which framework you are using.
 
