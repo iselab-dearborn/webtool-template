@@ -22,10 +22,16 @@ Adapt and include the HTML and CSS files for your project. Warning! It depends w
 
 ## For Developers
 
-If you want to run this project on Docker Swarm, you need to update Docker Hub
+To run this project, access the project's folder and install all dependencies:
 
-```console
-sh update-docker-hub.sh
+```
+$ npm insall
+```
+
+Run the project:
+
+```
+$ npm run dev
 ```
 
 ## Questions or Suggestions
