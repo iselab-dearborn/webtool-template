@@ -18,11 +18,7 @@ a:hover {
 
 .header{
     margin-top: 10px;
-    margin-bottom: 5px;
-}
-
-.header .header-title {
-    margin-top: 2px !important;
+    margin-bottom: 10px;
 }
 
 /*
@@ -169,10 +165,21 @@ a:hover {
     background-color: #00274c;
 }
 
+
 .navbar .navbar-brand-name{
     position: absolute;
     margin-top: 3px;
     margin-left: 10px;
+}
+
+.navbar .navbar-toggler-icon {
+    color: white !important;
+    cursor: pointer;
+}
+
+.navbar .navbar-brand-name{
+    color: white !important;
+    text-decoration: none;
 }
 
 .navbar .nav-link{
