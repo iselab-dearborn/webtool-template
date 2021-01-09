@@ -36,7 +36,7 @@ $ npm run dev
 
 ## Questions or Suggestions
 
-Feel free to create <a href="https://github.com/iselab-dearborn/docker-grocery/issues">issues</a> here as you need
+Feel free to create <a href="https://github.com/iselab-dearborn/webtool-template/issues">issues</a> here as you need
 
 ## Contribute
 
@@ -46,7 +46,7 @@ Contributions to the this project are very welcome! We can't do this alone! Feel
 
 * **Thiago Ferreira** - *Initial work*
 
-See also the list of [contributors](https://github.com/iselab-dearborn/docker-grocery/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/iselab-dearborn/webtool-template/graphs/contributors) who participated in this project.
 
 ## License
 
