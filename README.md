@@ -2,6 +2,12 @@
 
 An awesome template for building web-based tools used in the lab
 
+[![GitHub Release](https://img.shields.io/github/release/iselab-dearborn/webtool-template.svg)](https://github.com/iselab-dearborn/webtool-template/releases/latest)
+[![GitHub contributors](https://img.shields.io/github/contributors/iselab-dearborn/webtool-template.svg)](https://github.com/iselab-dearborn/webtool-template/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/iselab-dearborn/webtool-template.svg)](https://github.com/iselab-dearborn/webtool-template)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ## Usage
 
 Access the link below to see this template in action.
