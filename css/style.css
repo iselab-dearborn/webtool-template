@@ -25,6 +25,11 @@ label {
     font-weight: 600;
 }
 
+.dropdown-item:hover {
+    color: #fbfbfb;
+    background: #4e73df;
+}
+
 .header{
     margin-top: 10px;
     margin-bottom: 10px;
