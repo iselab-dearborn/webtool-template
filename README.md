@@ -22,7 +22,7 @@ Adapt and include the HTML and CSS files for your project. Warning! It depends w
 
 ## For Developers
 
-To run this project, access the project's folder and install all dependencies:
+You can directly change the source codes. However, if you want to use [Node.js](http://nodejs.dev), access the project's folder and install all dependencies:
 
 ```
 $ npm insall
